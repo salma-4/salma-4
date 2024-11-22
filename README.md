@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Salma </h1>
+<h3 align="center"> Java Developer | Fresh Graduate ❤️</h3>
+
+## 💫 About Me
+- 🎓 Bachelor’s in CS from **FCI - Menoufia University** (class of 2024).
+- 🧠 Currently, I'm focusing on **Back-end Development** specially using **Spring boot** .
+- 💼 I’m currently open for a new Internship or Job opportunity. Here's [MY RESUME](https://drive.google.com/file/d/11qBYwQ3RBa33sWtnVr1nF8uOz2T0dmfp/view?usp=drivesdk).
+
+### Find me here 📫 :
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-sobhy/)
+[![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:salmasobhy456@gmail.com)
 
 <!--
 **salma-4/salma-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
