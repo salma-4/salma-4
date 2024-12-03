@@ -4,7 +4,7 @@
 ## 💫 About Me
 - 🎓 Bachelor’s in CS from **FCI - Menoufia University** (class of 2024).
 - 🧠 Currently, I'm focusing on **Back-end Development** specially using **Spring boot** .
-- 💼 I’m currently open for a new Internship or Job opportunity. Here's [MY RESUME](https://drive.google.com/file/d/11qBYwQ3RBa33sWtnVr1nF8uOz2T0dmfp/view?usp=drivesdk).
+- 💼 I’m currently open for a new Internship or Job opportunity. Here's [MY RESUME](https://drive.google.com/file/d/1dY4hx0HWn0WK7Waj1IbRCl4zdlQEyOZy/view?usp=sharing).
 
 ### Find me here 📫 :
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salma-sobhy/)
