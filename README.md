@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma </h1>
-<h3 align="center"> Java Developer | Fresh Graduate ❤️</h3>
+<h3 align="center"> Java Developer | Software Engineer @ Fawry</h3>
 
 ## 💫 About Me
 - 🎓 Bachelor’s in CS from **FCI - Menoufia University** (class of 2024).
